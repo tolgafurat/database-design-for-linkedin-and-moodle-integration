@@ -1,1 +1,1 @@
-# database-design-for-linkedin-and-moodle-integration
+In this paper, a database model is presented for the virtually integrated version of the popular web applications LinkedIn and Moodle. The project is more than a technical implementation project, which means it is much more concentrated on the design of the database. It also includes EER diagram and SQL scripts of the database.
